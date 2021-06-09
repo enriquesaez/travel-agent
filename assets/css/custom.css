@@ -1,0 +1,9 @@
+.wrapper.style2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+._skills li {
+    margin-bottom: 0.5rem;
+}
