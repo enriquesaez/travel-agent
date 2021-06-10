@@ -319,7 +319,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #565656;
+		color: #292929;
 	}
 
 	blockquote {
@@ -2748,7 +2748,7 @@ input, select, textarea {
 	}
 
 		.spotlight .image {
-			width: 30%;
+			width: 20%;
 			border-radius: 100%;
 			margin: 0 3em 0 0;
 			display: block;
