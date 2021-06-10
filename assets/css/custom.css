@@ -41,7 +41,14 @@
 }
 
 @media screen and (max-width: 736px) {
+  ._title ._wrapper {
+    margin: 0 auto;
+    width: 100%;
+    padding-left: 0rem;
+  }
   section#two ._title ._wrapper h2 {
     font-size: 1.45rem;
+    line-height: 1.8rem;
+    white-space: nowrap;
   }
 }
