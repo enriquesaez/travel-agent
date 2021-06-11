@@ -44,11 +44,16 @@ section .inner .spotlight .content h3 {
   font-size: 1.3em;
   line-height: 1.3em;
   margin: 0 0 0.4em 0;
+  color: #7d4a4a;
 }
 
 section .inner .spotlight .content h4 {
-    color: #292929;
+  color: #292929;
   font-weight: 600;
+}
+
+section .inner .spotlight .content p {
+  color: #696666;
 }
 
 @media screen and (max-width: 736px) {
